@@ -21,7 +21,7 @@ In contrast, **parallelism** revolves around performing multiple tasks simultane
 
 **Concurrency** and **parallelism** can coexist, but they don't necessarily require each other. A program can be:
 
-- **Concurrenct** but not parallel: e.g., a single-core processor multitasking
+- **Concurrent** but not parallel: e.g., a single-core processor multitasking
 - **Parallel** but not concurrent: e.g., divided tasks distributed across multiple cores
 
 ### Mechanisms
